@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**ankanbhunia/ankanbhunia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 📍 My specific area of interest is Deep learning-based visual understanding. 
 - 🌱 I've published reseach papers in **CVPR, ICPR, ICIP, Pattern Recognition, Information Fusion, Neural Computing and Application**
@@ -13,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
