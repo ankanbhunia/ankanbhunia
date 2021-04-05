@@ -7,4 +7,4 @@
 - 💬 I worked as an Intern at the Computer Vision Dept. of [Robert Bosch](https://www.bosch.com/), Bangalore.
 - 💬 I had the opportunity to work under [Prof. Yang Wang](https://www.cs.umanitoba.ca/~ywang/) at the University of Manitoba, Canada as a research Intern through Mitacs scholarship program. 
 - 💬 I worked under the guidance of [Prof. Partha Pratim Roy](https://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Partha_Pratim_Roy.html), IIT Roorkee, India. 
-- 😄 How to reach me: [ankanbhunia.github.io](https://ankanbhunia.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=2leAc3AAAAAJ&hl=en) | [ankankumarbhunia@gmail.com](ankankumarbhunia@gmail.com)
+- 😄 How to reach me: [ankanbhunia.github.io](https://ankanbhunia.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=2leAc3AAAAAJ&hl=en) | [mailto:ankankumarbhunia@gmail.com](ankankumarbhunia@gmail.com)
