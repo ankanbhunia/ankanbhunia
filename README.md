@@ -1,6 +1,6 @@
 ## Hi there,
 
-
+- 👯 I am an incoming PhD student at [The University of Edinburgh](https://www.ed.ac.uk/), UK.
 - 📍 My specific area of interest is Deep learning-based visual understanding. 
 - 🌱 I've published research papers in **CVPR, ICCV, ECCV, ICPR, ICIP, Pattern Recognition, Information Fusion, Neural Computing and Application**
 - 👯 I did my bachalors from [Jadavpur University](http://www.jaduniv.edu.in/), Kolkata.
