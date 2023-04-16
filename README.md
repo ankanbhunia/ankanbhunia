@@ -8,6 +8,3 @@
 - 💬 I had the opportunity to work under [Prof. Yang Wang](https://www.cs.umanitoba.ca/~ywang/) at the University of Manitoba, Canada as a research Intern through Mitacs scholarship program. 
 - 💬 I worked under the guidance of [Prof. Partha Pratim Roy](https://www.iitr.ac.in/departments/CSE/pages/People+Faculty+Partha_Pratim_Roy.html), IIT Roorkee, India. 
 - 😄 How to reach me: [ankanbhunia.github.io](https://ankanbhunia.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=2leAc3AAAAAJ&hl=en) | [mailto:ankankumarbhunia@gmail.com](ankankumarbhunia@gmail.com)
-<div>
-<iframe src="https://ghbtns.com/github-btn.html?user=ankanbhunia&repo=PIDM&type=star&count=true&size=small" frameborder="0" style="margin-top:0px;" scrolling="0" width="90" height="20"  title="GitHub"></iframe>
-</div>
